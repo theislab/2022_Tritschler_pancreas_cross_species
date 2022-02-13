@@ -1,0 +1,5 @@
+# data directory
+
+/data
+*.DS_Store
+BED_mapping_genes.csv
