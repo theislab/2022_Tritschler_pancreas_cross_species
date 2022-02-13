@@ -8,7 +8,7 @@ The notebooks contain code for the following analyses:
 
 **scRNA-seq of human pancreatic islets:**  
 - _human_islets_preprocessing.ipynb_ --> QC, preprocessing, batch correction (input data are raw count matrices)  
-- _human_islets_new_clustering.ipynb_ --> Manifold, clustering and annotation steps for endocrine, beta and alpha cells (input data are preprocessed, filtered and annotated count matrices)  
+- _human_islets_new_clustering.ipynb_ --> Manifold, clustering and annotation steps for endocrine cells (input data are preprocessed, filtered and annotated count matrices)  
 - _human_islets_endocrine_analyses.ipynb_, _human_islets_beta_analyses.ipynb_, _human_islets_alpha_analyses.ipynb_ --> main analyses to reproduce results and plots of human endocrine cells (input data are preprocessed, filtered and annotated count matrices)  
 - _human_patch_seq_Camunas_Soler_2020.ipynb_ --> Mapping of single-cell Patch-seq (Camunas-Soler, 2020) data to human reference
 - _curate_fetal_Cao_2020.ipynb_ --> QC, preprocessing, manifold, clustering and annotation steps for human fetal pancreatic cells (Cao, 2020)
