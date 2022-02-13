@@ -22,7 +22,7 @@ The notebooks contain code for the following analyses:
 - _mouse_STZ_model.ipynb_ --> Analysis mouse STZ model (Sachs, 2020)
 
 **Cross species mapping:**      
-- _cross_species_mapping.ipynb_ --> main analyses to reproduce results and plots of cross-species comparisons and mapping    
+- _cross_species_conservation.ipynb_, _cross_species_heterogeneity_mapping.ipynb_ --> main analyses to reproduce results and plots of cross-species conservation and mapping   
 
 
 The data has been deposited in GEO under accession number xxxx. The raw count matrices as well as preprocessed, filtered and annotated count matrices are provided as supplementary file as an Anndata object (h5ad-file).
