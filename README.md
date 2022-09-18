@@ -26,10 +26,10 @@ The notebooks contain code for the following analyses:
 - **mouse_STZ_model.ipynb** --> Analysis mouse STZ model (Sachs et al, 2020)
 - **mouse_state_mapping_Pineros** --> Confirmation of cross-species mapping of human alpha and beta cell states to mouse cells (Pineros et al, 2020)
 
-## Cross species mapping:      
+## Cross species mapping      
 - **cross_species_conservation.ipynb**, **cross_species_heterogeneity_mapping.ipynb** --> main analyses to reproduce results and plots of cross-species conservation and mapping   
 
-
+## Data
 The data has been deposited in GEO under accession number GSE198623. The raw count matrices as well as preprocessed, filtered and annotated count matrices are provided as supplementary file as an Anndata object (h5ad-file).
 
 For exploration visit the CellxGene data portal:  or load the anndata-files into a python-session for additional analyses using scanpy.
